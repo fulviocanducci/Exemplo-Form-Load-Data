@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Models, Configuration: Debug Any CPU ------
+1>Models -> C:\Users\fulvi\Downloads\b\exemploFrmWindows\Models\bin\Debug\netstandard2.0\Models.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
