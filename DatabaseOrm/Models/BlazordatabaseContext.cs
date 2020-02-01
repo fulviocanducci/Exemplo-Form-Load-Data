@@ -5,7 +5,6 @@ using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace DatabaseOrm.Models
 {
-
     public partial class BlazordatabaseContext : DbContext
     {
         public BlazordatabaseContext()

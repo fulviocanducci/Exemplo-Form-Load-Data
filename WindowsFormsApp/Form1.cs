@@ -3,7 +3,6 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Configuration;
 using System.Windows.Forms;
-
 namespace WindowsFormsApp
 {
    public partial class Form1 : Form
